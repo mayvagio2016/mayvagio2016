@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Phat</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<p align="center"> <img width="250px" src="https://github.com/mayvagio2016/mayvagio2016/blob/main/2641657123de4fb05d47dbbaeb8ee41c.jpg?raw=true" alt="mayvagio2016" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayvagio2016&label=Profile%20views&color=0e75b6&style=flat" alt="mayvagio2016" /> </p>
+<h1 align="center">Hi 👋, I'm Phat</h1>
+
+<h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayvagio2016" alt="mayvagio2016" /></a> </p>
 
