@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&pause=1000&color=0000006C&center=true&random=true&width=435&lines=Em+%C4%83n+c%C6%A1m+ch%C6%B0a%3F;Em+%C4%83n+c%C6%A1m+v%E1%BB%9Bi+g%C3%AC%3F;Em+u%E1%BB%91ng+n%C6%B0%E1%BB%9Bc+ch%C6%B0a%3F;Em+t%E1%BA%AFm+ch%C6%B0a%3F;D%E1%BA%A1o+n%C3%A0y+em+t%E1%BA%AFm+kh%E1%BB%8Fe+kh%C3%B4ng%3F;Em+mua+con+m%C3%A8o+%E1%BB%9F+%C4%91%C3%A2u+m%C3%A0+xinh+th%E1%BA%BF%3F)](https://git.io/typing-svg)
 
-  <img src="https://typograssy.deno.dev/api?text=%3C3%20%3C3%20%3C3&comment=mayvagio2016" />
+  <img src="https://typograssy.deno.dev/api?text=2%20O%202%204&l1=0b841f&l2=0eb43a&bg=f5fff7&comment=@mayvagio2016" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
