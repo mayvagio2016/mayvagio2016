@@ -1,9 +1,9 @@
 
 
 <div align="center">
-  <img width="250px" src="https://github.com/mayvagio2016/mayvagio2016/blob/main/2641657123de4fb05d47dbbaeb8ee41c.jpg?raw=true" alt="mayvagio2016" />
+  <img width="100%" src="https://github.com/mayvagio2016/mayvagio2016/blob/main/tet.jpg" alt="mayvagio2016" />
   <h1>Hi 👋, I'm Phat</h1>
-  <h3 align="center">A passionate frontend developer from Vietnam</h3>
+  <h3 align="center">I have a great love and strong inspiration for software.</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&pause=1000&color=0000006C&center=true&random=true&width=435&lines=Em+%C4%83n+c%C6%A1m+ch%C6%B0a%3F;Em+%C4%83n+c%C6%A1m+v%E1%BB%9Bi+g%C3%AC%3F;Em+u%E1%BB%91ng+n%C6%B0%E1%BB%9Bc+ch%C6%B0a%3F;Em+t%E1%BA%AFm+ch%C6%B0a%3F;D%E1%BA%A1o+n%C3%A0y+em+t%E1%BA%AFm+kh%E1%BB%8Fe+kh%C3%B4ng%3F;Em+mua+con+m%C3%A8o+%E1%BB%9F+%C4%91%C3%A2u+m%C3%A0+xinh+th%E1%BA%BF%3F)](https://git.io/typing-svg)
 
