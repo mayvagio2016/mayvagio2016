@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img width="100%" src="https://github.com/mayvagio2016/mayvagio2016/blob/main/tet.jpg" alt="mayvagio2016" />
+  <img height="300px" style="object-fit" src="https://github.com/mayvagio2016/mayvagio2016/blob/main/665141e9765a98404c75b68694f78f56.jpg" alt="mayvagio2016" />
   <h1>Hi 👋, I'm Phat</h1>
   <h3 align="center">I have a great love and strong inspiration for software.</h3>
 
